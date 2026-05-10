@@ -1,0 +1,205 @@
+[
+    {
+        "run_id": "PRP-1778424184",
+        "timestamp": "2026-05-10 20:15:27",
+        "question": "What are the real names of all the avengers? Show the answer in a table. ",
+        "total_latency_sec": 142.206,
+        "retrieval_time_sec": 0.141,
+        "avg_cosine_similarity": 0.4786,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778424528",
+        "timestamp": "2026-05-10 20:18:50",
+        "question": "Which Avengers are dead?",
+        "total_latency_sec": 2.105,
+        "retrieval_time_sec": 0,
+        "avg_cosine_similarity": 0.0,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778424539",
+        "timestamp": "2026-05-10 20:18:59",
+        "question": "What is my name?",
+        "total_latency_sec": 0.186,
+        "retrieval_time_sec": 0,
+        "avg_cosine_similarity": 0.0,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778425224",
+        "timestamp": "2026-05-10 20:30:48",
+        "question": "Which Avengers are dead?",
+        "total_latency_sec": 23.929,
+        "retrieval_time_sec": 0.058,
+        "avg_cosine_similarity": 0.5064,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778426271",
+        "timestamp": "2026-05-10 20:47:52",
+        "question": "Where is Thor from?",
+        "total_latency_sec": 0.224,
+        "retrieval_time_sec": 0,
+        "avg_cosine_similarity": 0.0,
+        "num_docs_retrieved": 3
+    },
+    {
+        "run_id": "PRP-1778426284",
+        "timestamp": "2026-05-10 20:48:04",
+        "question": "Who partners up with Ant Man?",
+        "total_latency_sec": 0.098,
+        "retrieval_time_sec": 0,
+        "avg_cosine_similarity": 0.0,
+        "num_docs_retrieved": 1
+    },
+    {
+        "run_id": "PRP-1778426380",
+        "timestamp": "2026-05-10 20:49:40",
+        "question": "Who partners up with Ant Man?",
+        "total_latency_sec": 0.056,
+        "retrieval_time_sec": 0,
+        "avg_cosine_similarity": 0.0,
+        "num_docs_retrieved": 1
+    },
+    {
+        "run_id": "PRP-1778426481",
+        "timestamp": "2026-05-10 20:51:21",
+        "question": "Who partners up with Ant Man?",
+        "total_latency_sec": 0.055,
+        "retrieval_time_sec": 0,
+        "avg_cosine_similarity": 0.0,
+        "num_docs_retrieved": 1
+    },
+    {
+        "run_id": "PRP-1778426586",
+        "timestamp": "2026-05-10 20:53:15",
+        "question": "Who partners up with Ant Man?",
+        "total_latency_sec": 9.085,
+        "retrieval_time_sec": 0.065,
+        "avg_cosine_similarity": 0.85,
+        "num_docs_retrieved": 1
+    },
+    {
+        "run_id": "PRP-1778426690",
+        "timestamp": "2026-05-10 20:55:24",
+        "question": "Who partners up with Ant Man?",
+        "total_latency_sec": 34.5,
+        "retrieval_time_sec": 0.195,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 1
+    },
+    {
+        "run_id": "PRP-1778430141",
+        "timestamp": "2026-05-10 21:52:40",
+        "question": "Who partners up with Ant Man?",
+        "total_latency_sec": 18.851,
+        "retrieval_time_sec": 0.23,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 1
+    },
+    {
+        "run_id": "PRP-1778433212",
+        "timestamp": "2026-05-10 22:43:45",
+        "question": "What do Vanya and Tony talk about?",
+        "total_latency_sec": 12.782,
+        "retrieval_time_sec": 0.286,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778434176",
+        "timestamp": "2026-05-10 22:59:51",
+        "question": "How does Asgard fall?",
+        "total_latency_sec": 15.183,
+        "retrieval_time_sec": 0.773,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778434267",
+        "timestamp": "2026-05-10 23:01:14",
+        "question": "How does Asgard fall?",
+        "total_latency_sec": 7.24,
+        "retrieval_time_sec": 0.283,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778434283",
+        "timestamp": "2026-05-10 23:01:36",
+        "question": "What would have happened otherwise?",
+        "total_latency_sec": 13.24,
+        "retrieval_time_sec": 0.045,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778434465",
+        "timestamp": "2026-05-10 23:04:40",
+        "question": "How does Asgrad fall?",
+        "total_latency_sec": 15.359,
+        "retrieval_time_sec": 0.071,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778434491",
+        "timestamp": "2026-05-10 23:05:25",
+        "question": "What would have happened otherwise?",
+        "total_latency_sec": 33.698,
+        "retrieval_time_sec": 0.208,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "TEST-ID",
+        "timestamp": "2026-05-10 23:09:42",
+        "question": "Test Question",
+        "total_latency_sec": 1.5,
+        "retrieval_time_sec": 0.5,
+        "avg_cosine_similarity": 0.9,
+        "num_docs_retrieved": 2
+    },
+    {
+        "run_id": "PRP-1778434897",
+        "timestamp": "2026-05-10 23:12:21",
+        "question": "What does Thor do to save Asgard?",
+        "total_latency_sec": 43.269,
+        "retrieval_time_sec": 0.09,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2,
+        "judge_score": 10,
+        "judge_justification": "The response is perfect. It correctly identifies the core limitation of the source material: the context provides the setup, the threat (Malekith), and the necessary plans, but it does not contain the actual climax or the successful action taken by Thor. By pointing out what the context *does* establish (the threat, the need to secure the Tesseract, the closure of the Bifrost) and what it *lacks* (the resolution), the response demonstrates expert analytical skill and a deep understanding of narrative context, even when the source material is incomplete."
+    },
+    {
+        "run_id": "PRP-1778435089",
+        "timestamp": "2026-05-10 23:15:33",
+        "question": "What happens to Asgard?",
+        "total_latency_sec": 44.138,
+        "retrieval_time_sec": 0.054,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2,
+        "judge_score": {
+            "accuracy": 8,
+            "completeness": 10,
+            "faithfulness": 4
+        },
+        "judge_justification": "The response is exceptionally complete and highly accurate in summarizing the overarching plot (answering 'What happens to Asgard?'). However, it scores poorly on faithfulness because it introduces major, specific plot elements (Malekith, the Aether, Jane) that are not mentioned or implied within the limited script context provided, relying instead on external knowledge of the source material."
+    },
+    {
+        "run_id": "PRP-1778435258",
+        "timestamp": "2026-05-10 23:18:28",
+        "question": "What happens to Asgard?",
+        "total_latency_sec": 50.316,
+        "retrieval_time_sec": 0.06,
+        "avg_cosine_similarity": 0.88,
+        "num_docs_retrieved": 2,
+        "judge_score": {
+            "accuracy": 3,
+            "completeness": 7,
+            "faithfulness": 2
+        },
+        "judge_justification": "The response is highly detailed and attempts to provide a complete narrative answer, but it fails significantly on faithfulness. It introduces major plot points (Malekith, the Aether, Jane) that are not mentioned anywhere in the provided dialogue context. While the general theme of 'peril' and 'escape' is accurate, the specific details used to build the summary are based on external knowledge, making the response inaccurate relative to the source material."
+    }
+]

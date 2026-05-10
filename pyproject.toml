@@ -1,0 +1,22 @@
+[project]
+name = "rag_app"
+version = "0.1.0"
+description = "A hierarchical RAG application for Obsidian Vaults."
+dependencies = [
+    "langchain",
+    "langchain-chroma",
+    "langchain-community",
+    "langchain-openai",
+    "langchain-text-splitters",
+    "chromadb",
+    "sentence-transformers",
+    "streamlit",
+    "tqdm"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
